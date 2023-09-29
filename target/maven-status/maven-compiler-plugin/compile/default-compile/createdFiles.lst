@@ -1,0 +1,6 @@
+serenityswag\actions\LoginActions.class
+exercise\actions\TodoListActions.class
+serenityswag\WhenLoginOn.class
+serenityswag\actions\userInfo.class
+exercise\whenAddingTask.class
+serenityswag\inventory\InventoryPage.class

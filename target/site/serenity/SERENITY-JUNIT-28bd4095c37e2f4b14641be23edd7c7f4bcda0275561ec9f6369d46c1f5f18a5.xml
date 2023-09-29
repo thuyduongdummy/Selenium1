@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="exercise.WhenDeletingTask" skipped="0" tests="1" time="15.77" timestamp="2023-02-06 12:20:21"><testcase classname="exercise.WhenDeletingTask" name="Deleted items should be deleted from the list"/></testsuite>
